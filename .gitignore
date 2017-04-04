@@ -1,6 +1,6 @@
 backup/
 data/
+extra/
 tweet_storage1/
 tweet_storage2/
 .ipynb_checkpoints/
-save_tweets_to_mongo.ipynb
