@@ -11,7 +11,7 @@ With 1 million tweets from 560,000 users, I was able to identify users as belong
 For this project I used Tweepy and the Twitter API to pull tweets. I used Pyspark running on an AWS instance for tweet preprocessing and model building. I used NetworkX and Gephi for network analysis and visualization.
 
 **Files:**  
-The Jupyter notebooks for this analysis are listed in order above. Note that notebooks 3 and 4 are extra - I built a naive bayes model and an SVM model to predict a user's climate change acceptance from their tweets. The best model was about 59% accurate, but wasn't useful enough for further work.
+The Jupyter notebooks for this analysis are listed in order above. Note that notebooks 3 and 4 are extra - I built a naive bayes model and an SVM model to predict a user's climate change acceptance from their tweets (for this I used labeled data that is available [here](https://www.crowdflower.com/wp-content/uploads/2016/03/1377884570_tweet_global_warming.csv)). The best model was about 59% accurate, but wasn't useful enough for further work.
 
 The **Gephi Network Files** folder contains .gephi files.  
 **Media** contains some visualizations of the strongly connected component of the Twitter network.  
