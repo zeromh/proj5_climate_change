@@ -3,8 +3,8 @@
 This repository contains the code, network visualizations, and slides I created for my final project of the Metis Data Science program. My project is an exploration of the conversations about climate change that took place on Twitter in March 2017.
 
 **Tools Used:**  
-Tweepy and the Twitter API to pull tweets
-Pyspark running on AWS for tweet preprocessing and model building
+Tweepy and the Twitter API to pull tweets  
+Pyspark running on AWS for tweet preprocessing and model building  
 NetworkX and Gephi for network analysis and visualization
 
 ![Twitter network with communities and influential users](media/network_with_influencer_names.png)
