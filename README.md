@@ -2,6 +2,8 @@
 
 This repository contains the code, network visualizations, and slides I created for my final project of the Metis Data Science program. My project is an exploration of the conversations about climate change that took place on Twitter in March 2017.
 
+I wrote more about this project in a blog post [here](https://zeromh.github.io/climate_change_conversations/). For more information on this repo, see below.
+
 ![Twitter network with communities and influential users](media/network_with_influencer_names.png)
 ![Tools used](tools.png)
 
